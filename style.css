@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1{
+    color: #ee2e2e;
+}
+h2{
+    color: rgb(114, 114, 215);
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+
+p {
+    width: 65em;
+    text-align: justify;
+    margin: 10px 0;
+}
+
+ul {
+    width: 60em;
+    margin-left: 20px;
+    list-style-type: disc;
+}
+img{
+    width: 50%;
+    height: auto;
+    margin: 20px;
+}
